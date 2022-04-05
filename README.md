@@ -10,7 +10,7 @@
 <img width="" height="" src="./pic/3주차_네이버.png"></img>
 <img width="" height="" src="./pic/3주차_전화걸기.png"></img>
 
-#5주차 (2022-04-05)
+# 5주차 (2022-04-05)
 - 프레임 레이아웃과 뷰의 전환
 
 <img width="" height="" src="./pic/5주차_actmain.png"></img>
