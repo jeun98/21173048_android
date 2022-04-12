@@ -18,3 +18,13 @@
 <img width="" height="" src="./pic/5주차_1.png"></img>
 <img width="" height="" src="./pic/5주차_2.png"></img>
 
+# 6주차 (2022-04-12)
+
+- 한 개의 버튼을 클릭하면 
+1. Toast.makeText() 이용 하단에 width 크기 값을 표시 (Interger.toString() 함수 사용) 
+
+- 또 다른 버튼을 클릭하면 
+2. Toast.makeText() 하단에 height 크기 값을 표시 (Interger.toString() 함수 사용)
+
+<img width="" height="" src="./pic/넓이.png"></img>
+<img width="" height="" src="./pic/높이.png"></img>
